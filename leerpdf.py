@@ -1,3 +1,5 @@
+#Descargar borme formato pdf y sacar texto por consola
+
 import PyPDF2
 import bormeparser
 from lxml import html
